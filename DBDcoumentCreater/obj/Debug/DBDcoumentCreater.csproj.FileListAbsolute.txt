@@ -1,0 +1,17 @@
+C:\Users\chenbo\Desktop\DBDcoumentCreater\DBDcoumentCreater\obj\Debug\DBDcoumentCreater.csprojResolveAssemblyReference.cache
+C:\Users\chenbo\Desktop\DBDcoumentCreater\DBDcoumentCreater\obj\Debug\DBDcoumentCreater.Form1.resources
+C:\Users\chenbo\Desktop\DBDcoumentCreater\DBDcoumentCreater\obj\Debug\DBDcoumentCreater.Properties.Resources.resources
+C:\Users\chenbo\Desktop\DBDcoumentCreater\DBDcoumentCreater\obj\Debug\DBDcoumentCreater.csproj.GenerateResource.Cache
+C:\Users\chenbo\Desktop\DBDcoumentCreater\DBDcoumentCreater\bin\Debug\DBDcoumentCreater.exe
+C:\Users\chenbo\Desktop\DBDcoumentCreater\DBDcoumentCreater\bin\Debug\DBDcoumentCreater.pdb
+C:\Users\chenbo\Desktop\DBDcoumentCreater\DBDcoumentCreater\obj\Debug\DBDcoumentCreater.exe
+C:\Users\chenbo\Desktop\DBDcoumentCreater\DBDcoumentCreater\obj\Debug\DBDcoumentCreater.pdb
+C:\Code\StudyCode\DBDcoumentCreater\DBDcoumentCreater\bin\Debug\文档生成器.exe
+C:\Code\StudyCode\DBDcoumentCreater\DBDcoumentCreater\bin\Debug\文档生成器.pdb
+C:\Code\StudyCode\DBDcoumentCreater\DBDcoumentCreater\obj\Debug\DBDcoumentCreater.csprojResolveAssemblyReference.cache
+C:\Code\StudyCode\DBDcoumentCreater\DBDcoumentCreater\obj\Debug\DBDcoumentCreater.Form1.resources
+C:\Code\StudyCode\DBDcoumentCreater\DBDcoumentCreater\obj\Debug\DBDcoumentCreater.frmConn.resources
+C:\Code\StudyCode\DBDcoumentCreater\DBDcoumentCreater\obj\Debug\DBDcoumentCreater.Properties.Resources.resources
+C:\Code\StudyCode\DBDcoumentCreater\DBDcoumentCreater\obj\Debug\DBDcoumentCreater.csproj.GenerateResource.Cache
+C:\Code\StudyCode\DBDcoumentCreater\DBDcoumentCreater\obj\Debug\文档生成器.exe
+C:\Code\StudyCode\DBDcoumentCreater\DBDcoumentCreater\obj\Debug\文档生成器.pdb
